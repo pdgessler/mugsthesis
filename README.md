@@ -1,4 +1,4 @@
 mugsthesis
 ==========
 
-A thesis class, based on memoir, complying with Marquette University Graduate School requirements
+This project has moved. You can now find this project at [sourcehut](https://sr.ht/~pdgessler/mugsthesis/) instead.
